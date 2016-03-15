@@ -66,24 +66,6 @@ list-style-type: none;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   #banner{
       height: 500px;
 
@@ -99,9 +81,56 @@ list-style-type: none;
 
 
 
+  .design {
+      width: 277px;
+      height: 23px;
+      opacity: 80%;
+      position: absolute;
+      left: 39%;
+      top: 309px;
+      z-index: 104;
+      font-size: 16px;
+      font-family: 'PT Sans', sans-serif;
+      color: rgb(255, 255, 255);
+      line-height: 1.2;
+      text-align: center;
+      -moz-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+      -webkit-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+      -ms-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+
+
+      z-index: 40;
+
+
+  }
+  .caption {
+      opacity: 80%;
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      z-index: 104;
+  border-bottom: solid;
+      font-size: 39.362px;
+      font-family: 'PT Sans', sans-serif;
+      color: rgb(255, 255, 255);
+      line-height: 1.2;
+      text-align: left;
+      -moz-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+      -webkit-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+      -ms-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
+      position: absolute;
+      left: 428.801px;
+      top: 222.248px;
+      z-index: 40; }
+
+
+
+
+
   .go_ahead {
+      text-align: center;
       font-size: 24px;
-      font-family: "Myriad Pro";
+      font-family: 'PT Sans', sans-serif;
       color: rgb(255, 255, 255);
       line-height: 1.2;
       text-align: left;
@@ -115,9 +144,9 @@ list-style-type: none;
       text-align: center;
       border-style: solid;
       border-width: 6px;
-      border-color: rgb(26, 188, 156);
+      border-color: rgb(26, 188, 156), ;
       background-color: rgb(26, 188, 156);
-      opacity: 0.59;
+
       position: absolute;
       left: 489px;
       top: 470px;
@@ -126,50 +155,7 @@ list-style-type: none;
       z-index: 97;
   }
 
-  .caption {
-      position: absolute;
-      left: 0px;
-      top: 0px;
-      z-index: 104;
 
-      font-size: 39.362px;
-      font-family: "Myriad Pro";
-      color: rgb(255, 255, 255);
-      line-height: 1.2;
-      text-align: left;
-      -moz-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
-      -webkit-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
-      -ms-transform: matrix( 1.52441274533761,0,0,1.5183892745357,0,0);
-      position: absolute;
-      left: 428.801px;
-      top: 222.248px;
-      z-index: 40; }
-
-  .hr {
-      border-width: 4px;
-      border-color: rgb(255, 255, 255);
-      border-style: dashed;
-      background-color: rgb(255, 255, 255);
-      position: absolute;
-      left: 295px;
-      top: 288px;
-      width: 606px;
-      height: 0;
-      z-index: 102;
-  }
-  .Frontend_Design___UI_UX_Design {
-      font-size: 22px;
-      font-family: "Myriad Pro";
-      color: rgb(255, 255, 255);
-      line-height: 1.2;
-      text-align: center;
-      position: absolute;
-      left: 349.255px;
-      top: 309.524px;
-      width: 277px;
-      height: 23px;
-      z-index: 101;
-  }
 
 
 
