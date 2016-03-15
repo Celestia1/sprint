@@ -84,7 +84,7 @@ list-style-type: none;
   .design {
       width: 277px;
       height: 23px;
-      opacity: 80%;
+      opacity: 100%;
       position: absolute;
       left: 39%;
       top: 309px;
@@ -104,7 +104,7 @@ list-style-type: none;
 
   }
   .caption {
-      opacity: 80%;
+      opacity: 100%;
       position: absolute;
       left: 0px;
       top: 0px;
